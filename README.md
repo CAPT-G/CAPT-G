@@ -1,4 +1,4 @@
-# CAPT-G's GitHub Profile
+# CAPT-G
 
 ## Overview
 
