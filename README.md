@@ -18,7 +18,7 @@ Dive into the decentralized world of crypto trading with my DEX projects. Explor
 ### 4. Smart Contracts for Seamless Transactions
 Facilitating smooth transactions, my smart contract codes ensure reliability and security in both fiat and crypto dealings.
 
-## Python Django JavaScript Node.js 
+## Python Django CSS HTML JavaScript Node.js React Native
 
 <!---
 CAPT-G/CAPT-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
