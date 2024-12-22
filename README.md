@@ -1,10 +1,9 @@
-# Logically Incorporated
+# Capt-G
+## Logically Incorporated
 
-# Project Overview
+## Overview
 
-## by Capt-G
-
-Welcome to the central hub for all my projects, where creativity meets cutting-edge technology! Below, you’ll find a detailed overview of my ventures spanning artificial intelligence, software development, blockchain, and nonprofit work.  
+Welcome to the central hub for all my projects, where creativity meets cutting-edge technology! At the heart of our mission is innovation, creativity, and precision. With years of expertise in software architecture, design, and development, we specialize in creating intuitive, scalable, and secure platforms. Whether it’s casino-based gaming software, payment processing systems, DEX platforms, crypto wallets, or full stack trading platforms with AI driven analytical predictive technology, our solutions are logically incorporated and tailored to your unique requirements. Below, you’ll find a detailed overview of my ventures spanning artificial intelligence, software development, blockchain, and nonprofit work.  
 
 ---
 
