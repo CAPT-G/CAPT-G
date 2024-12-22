@@ -1,8 +1,8 @@
-# CAPT-G
+# Logically Incorporated
 
-## Overview
+# Project Overview
 
-# Overview of Projects by Capt-G
+## by Capt-G
 
 Welcome to the central hub for all my projects, where creativity meets cutting-edge technology! Below, you’ll find a detailed overview of my ventures spanning artificial intelligence, software development, blockchain, and nonprofit work.  
 
