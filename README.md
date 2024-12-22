@@ -12,10 +12,11 @@ Welcome to the central hub for all my projects, where creativity meets cutting-e
 A state-of-the-art casino software platform specializing in slot machine development and management. Designed for unparalleled gaming experiences, the software includes highly customizable slot configurations, secure payment integration, and compliance with industry standards.  
 
 ### Highlights:  
-- **Cosmic Voyage Slot Machine**:  
-  - 5 reels, 50 paylines, and medium volatility.  
+- **Casino Games Library:**
+  
+  - A collection of 21 unique slot machine games, each featuring custom themes, gameplay mechanics, and bonus features.
+  - Examples include Cosmic Voyage, a 5-reel, 50-payline slot with Free Spins and a Space Mission Bonus feature.
   - RTP of 96% with Free Spins and Space Mission Bonus features.
-  - 21 Games in total with full animation and secure payment process integrative solutions. 
 
 - **Platform Features**:  
   - Admin and Player Dashboards  
