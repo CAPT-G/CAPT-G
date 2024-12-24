@@ -1,7 +1,7 @@
 # Capt-G
 ## Logically Incorporated
 
-## 👋 About Me  
+## About Me  
 I am a software developer and entrepreneur with a passion for creating innovative solutions that blend cutting-edge technology with practical applications. My projects range from AI-powered tools and blockchain ecosystems to interactive gaming software and nonprofit initiatives.  
 
 ---
