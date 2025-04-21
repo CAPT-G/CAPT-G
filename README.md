@@ -16,20 +16,20 @@ I am a software developer and entrepreneur with a passion for creating innovativ
 
 ## 🔧 Skills & Tech Stack  
 - **Programming Languages**: Python, JavaScript, HTML, CSS, Solidarity, React Native
-- **Frameworks & Tools**: Django, React.js, Node.js
+- **Frameworks & Tools**: Django, React.js, Node.js, Vercel
 - **AI/ML**: GPT APIs, joblib, pandas, scikit-learn  
-- **Blockchain**: Smart Contracts, Decentralized Applications (dApps)  
-- **Web and App Development**: Full-Stack (Frontend & Backend)  
+- **Blockchain**: ERC20 Smart Contracts, Decentralized Applications (dApps)  
+- **Web and App Development**: Full-Stack(Frontend & Backend)  
 
 ---
 
 ## 🌟 Featured Projects  
-- **Diamond Elite Casino Gaming Software**  
+- **Diamond Casino Gaming Software**  
 - **QuantAI**: Market prediction AI for day trading the S&P 500  
 - **AyeEye**: Django-based AI chat interface  
 - **Pythonista**: Multipurpose platform for Python-based innovations  
 - **Stone Trades Inc.**: Empowering communities through education and skills  
-
+- **Logically Incorporation**: Parent Company to launching all projects
 ---
 
 ## Overview
@@ -38,7 +38,7 @@ Welcome to the central hub for all my projects, where creativity meets cutting-e
 
 ---
 
-## **1. Diamond Elite Casino Gaming Software**  
+## **1. Diamond Casino Gaming Software**  
 ### Description:  
 A state-of-the-art casino software platform specializing in slot machine development and management. Designed for unparalleled gaming experiences, the software includes highly customizable slot configurations, secure payment integration, and compliance with industry standards.  
 
