@@ -7,7 +7,7 @@ I am a software developer and entrepreneur with a passion for creating innovativ
 ---
 
 ## 🚀 What I Do  
-- **Casino Gaming Software**: Creator of *Diamond Elite Casino Gaming Software*, featuring 21 immersive casino games with customizable slot configurations.  
+- **Casino Game Software**: Creator of *Diamond Casino Games Software*, featuring 21 immersive casino games with customizable slot configurations.  
 - **AI & Machine Learning**: Building predictive models for stock trading and conversational AI systems for user-friendly interfaces.  
 - **Blockchain Development**: Developer of *GCOYN* and conceptualizing *DEXTOR*, a decentralized exchange for seamless crypto trading.  
 - **Nonprofit Initiatives**: Founder of *Stone Trades Inc.*, a nonprofit focused on business and skill development for underserved communities.  
@@ -46,8 +46,8 @@ A state-of-the-art casino software platform specializing in slot machine develop
 - **Casino Games Library:**
   
   - A collection of 21 unique slot machine games, each featuring custom themes, gameplay mechanics, and bonus features.
-  - Examples include Cosmic Voyage, a 5-reel, 20-payline slot with Free Spins and a Space Mission Bonus feature.
-  - RTP of 80% - 96% with Free Spins and Space Mission Bonus features.
+  - Examples include Fruit Fiesta, a 5-reel, 20-payline slot with Bomis Spin Multipliers, and a Bonus Game feature.
+  - RTP of 96% with Free Spins and Space Mission Bonus features.
 
 - **Platform Features**:  
   - Admin and Player Dashboards  
@@ -56,9 +56,9 @@ A state-of-the-art casino software platform specializing in slot machine develop
   - Secure Privacy via 256-bit encryption technology, SSL Encryption. 
 
 ### Tech Stack:  
-- **Backend**: Django, Render, React.js, Node.js
+- **Backend**: Django, Render, 
 - **Frontend**: Vercel, React Native
-- **Tools**: Python, joblib for ML-based optimizations  
+- **Tools**: Python, Html, Css, Javascript 
 
 ---
 
@@ -100,6 +100,8 @@ An AI-powered platform focused on predicting market trends for day trading the S
 A multipurpose platform showcasing Python-based innovations. Current focus areas include tarot deck analysis, trading AI, and ebook automation.  
 
 ### Projects Within Python:  
+- **Oracle**: Platform for Horoscopes, daily, weekly, monthly readings, star charts, and much more.
+  
 - **Tarot_deck**:  
   - Features 22 Major Arcana cards with a customizable tarot reading spread.  
 
