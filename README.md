@@ -1,4 +1,4 @@
-# Capt-G — Architect of Logically Intelligent Systems  
+# Capt-G — Architect of Logically Intelligent Technology.   
 ## Founder of Logically Incorporated
 ## Day Trader - Futures and Options $SPY $ES_F
 ## Casino Engineer
