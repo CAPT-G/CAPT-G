@@ -35,6 +35,7 @@ A full-stack AI trading architecture with:
 - Backend-first design using Django + WebSockets  
 - Frontend plugin system (JS/HTML5) for reusable themes and UIs  
 - P2P sweepstakes mechanics and secure player wallet system
+- - [Sign Up Here](https://DiamondCasinoGames.com)
 
 ### **GCOYN Token + DEXtor Web**
 - Fully integrated ERC20 token system  
@@ -90,12 +91,6 @@ A full-stack AI trading architecture with:
 Let’s connect and collaborate — the next innovation is only one commit away.
 
 ---
-
-**[Portfolio]** *(coming soon)*  
-**[Twitter/X]** [@Stone_Trades1] 
-**[Twitter/X]** [@DiamondCasinoG]
-**[Twitter/X]** [@GCOYN] 
-
 
 ## 🛠 Tech Stack
 
