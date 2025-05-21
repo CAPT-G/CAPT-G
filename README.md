@@ -9,14 +9,14 @@ I am a software developer and entrepreneur with a passion for creating innovativ
 ## 🚀 What I Do  
 - **Casino Gaming Software**: Creator of *Diamond Elite Casino Gaming Software*, featuring 21 immersive casino games with customizable slot configurations.  
 - **AI & Machine Learning**: Building predictive models for stock trading and conversational AI systems for user-friendly interfaces.  
-- **Blockchain Development**: Developer of *GCOIN* and conceptualizing *DEXTOR*, a decentralized exchange for seamless crypto trading.  
+- **Blockchain Development**: Developer of *GCOYN* and conceptualizing *DEXTOR*, a decentralized exchange for seamless crypto trading.  
 - **Nonprofit Initiatives**: Founder of *Stone Trades Inc.*, a nonprofit focused on business and skill development for underserved communities.  
 
 ---
 
 ## 🔧 Skills & Tech Stack  
 - **Programming Languages**: Python, JavaScript, HTML, CSS, Solidarity, React Native
-- **Frameworks & Tools**: Django, React.js, Node.js, Vercel
+- **Frameworks & Tools**: Django, React.js, Node.js, Vercel, Render
 - **AI/ML**: GPT APIs, joblib, pandas, scikit-learn  
 - **Blockchain**: ERC20 Smart Contracts, Decentralized Applications (dApps)  
 - **Web and App Development**: Full-Stack(Frontend & Backend)  
@@ -24,10 +24,10 @@ I am a software developer and entrepreneur with a passion for creating innovativ
 ---
 
 ## 🌟 Featured Projects  
-- **Diamond Casino Gaming Software**  
+- **Diamond Casino Games Software**  
 - **QuantAI**: Market prediction AI for day trading the S&P 500  
-- **AyeEye**: Django-based AI chat interface  
-- **Pythonista**: Multipurpose platform for Python-based innovations  
+- **GCOYN Launch**: ERC20 Token for Dextor ecosystem.
+- **Oracle**: An App for Zodiac, Horoscope, Moonphases, Star Charts, Daily Readings via Tarot decks or Oracle decks. 
 - **Stone Trades Inc.**: Empowering communities through education and skills  
 - **Logically Incorporation**: Parent Company to launching all projects
 ---
@@ -38,7 +38,7 @@ Welcome to the central hub for all my projects, where creativity meets cutting-e
 
 ---
 
-## **1. Diamond Casino Gaming Software**  
+## **1. Diamond Casino Games Software**  
 ### Description:  
 A state-of-the-art casino software platform specializing in slot machine development and management. Designed for unparalleled gaming experiences, the software includes highly customizable slot configurations, secure payment integration, and compliance with industry standards.  
 
@@ -46,30 +46,30 @@ A state-of-the-art casino software platform specializing in slot machine develop
 - **Casino Games Library:**
   
   - A collection of 21 unique slot machine games, each featuring custom themes, gameplay mechanics, and bonus features.
-  - Examples include Cosmic Voyage, a 5-reel, 50-payline slot with Free Spins and a Space Mission Bonus feature.
-  - RTP of 96% with Free Spins and Space Mission Bonus features.
+  - Examples include Cosmic Voyage, a 5-reel, 20-payline slot with Free Spins and a Space Mission Bonus feature.
+  - RTP of 80% - 96% with Free Spins and Space Mission Bonus features.
 
 - **Platform Features**:  
   - Admin and Player Dashboards  
   - Regulatory Compliance Modules  
   - Cutting-edge Animation and Graphics
-  - Secure Privacy via 256-bit encryption technology
+  - Secure Privacy via 256-bit encryption technology, SSL Encryption. 
 
 ### Tech Stack:  
-- **Backend**: Django  
-- **Frontend**: React.js  
+- **Backend**: Django, Render, React.js, Node.js
+- **Frontend**: Vercel, React Native
 - **Tools**: Python, joblib for ML-based optimizations  
 
 ---
 
-## **2. GCOIN**  
+## **2. GCOYN**  
 ### Description:  
 A blockchain project designed to create a seamless digital currency ecosystem. GCOIN focuses on secure, fast, and decentralized transactions, with potential use cases in gaming, e-commerce, and beyond.  
 
 ### Key Features:  
 - Scalable blockchain infrastructure.  
-- Advanced cryptographic protocols for secure transactions.  
-- Integration potential with gaming platforms like **Diamond Elite Casino Gaming Software**. 
+- Advanced cryptographic protocols for secure transactions on **Platform Dextor** Decentralized Exchange. 
+- Integration potential with gaming platforms like **Diamond Casino Games Software**. 
 
 ---
 
@@ -78,7 +78,7 @@ A blockchain project designed to create a seamless digital currency ecosystem. G
 A Django-based chat interface leveraging AI to provide informed and dynamic responses. The system is designed for conversational interactions, fresh starts for each chat session, and advanced data handling capabilities.  
 
 ### Key Features:  
-- Text generation with GPT-2 pipelines.  
+- Text generation with GPT-4o pipelines.  
 - Seamless data classification with retrainable models.  
 - Centered and user-friendly UI design.  
 
