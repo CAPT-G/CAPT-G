@@ -4,18 +4,36 @@
 Welcome to my command center — where cutting-edge code meets real-world impact. I'm a senior software developer and trader who builds platforms that *think, trade, entertain,* and *empower.*
 
 ---
+## 🚀 What I Do
 
-## ⚙️ What I Do
+### Full Stack Systems Development
+- **Website Design & Development**  
+  UI/UX-focused, responsive, scalable, and secure — from prototype to production. Django and React/Vue on the backend/front, deployed via Render/Vercel.
 
-- **Casino Game Engineering**: Creator of **Diamond Elite Casino**, a full-stack Django-powered suite featuring 21+ real-time games like *Dinging Diamonds*. Includes custom slot engines, secure player dashboards, admin tools, and sweepstakes compliance.
-  
-- **Trading AI & Market Intelligence**: Founder of **DEXtor AI**, a multi-layered, self-optimizing day trading system designed for real-time signal generation, risk stratification, and strategic adaptation across equities, forex, and crypto.
+- **Mobile App Development**  
+  Cross-platform apps built using **React Native**, optimized for performance, real-time communication, and seamless backend integration.
 
-- **Blockchain & Tokenized Economies**: Architect of **GCOYN** — an ERC20 token fueling a decentralized P2P ecosystem across gaming, trading, and payment flows within the DEXtor platform.
+### Fintech & Trading Systems
+- **Trading Tools & AI Development**  
+  Architect of proprietary day trading systems, strategy builders, and predictive AI models. My tools integrate live market data, algorithmic execution logic, and backtested alpha signals for S&P 500, crypto, and forex markets.
 
-- **Conversational AI**: Developer of **AyeEye**, an intelligent Django-based chat interface powered by GPT-4o and retrainable data models.
+- **DEXtor AI**  
+  A modular, self-improving trading platform layered with indicator models, risk systems, and AI strategy generators.
 
-- **Nonprofit Impact**: Founder of **Stone Trades Inc.**, a 501(c)(3) dedicated to skill-building and entrepreneurial training in underserved communities.
+### Intelligent Gaming & Blockchain
+- **Diamond Elite Casino Software**  
+  21+ fully playable slot games, bonus engines, and secure dashboards with backend-driven game logic and P2P sweepstakes.
+
+- **GCOYN Ecosystem**  
+  ERC20 token designed for in-game economies, crypto swaps, and decentralized payment flows.
+
+### Conversational Interfaces & Automation
+- **AyeEye Chatbot & AI Agents**  
+  GPT-powered UIs, context-aware assistants, and smart tools for workflow automation, community bots, and real-time dialogue systems.
+
+### Nonprofit & Impact Work
+- **Stone Trades Inc.**  
+  A 501(c)(3) nonprofit teaching business and tech skills in underserved communities.
 
 ---
 
