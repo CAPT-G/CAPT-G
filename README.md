@@ -4,6 +4,21 @@
 Welcome to my command center — where cutting-edge code meets real-world impact. I'm a senior software developer and trader who builds platforms that *think, trade, entertain,* and *empower.*
 
 ---
+
+## 🚀 What I Do
+
+### Core Expertise  
+![Full Stack Web Dev](https://img.shields.io/badge/Full_Stack_Web_Development-0A66C2?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![Mobile App Dev](https://img.shields.io/badge/Full_Stack_Mobile_Apps-6DB33F?style=for-the-badge&logo=react&logoColor=white)  
+![Trading Tools](https://img.shields.io/badge/Trading_Tools_Development-1E1E1E?style=for-the-badge&logo=tradingview&logoColor=white)  
+![AI Systems](https://img.shields.io/badge/AI_&_ML_Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)  
+![Blockchain Dev](https://img.shields.io/badge/Blockchain_&_Smart_Contracts-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Casino Game Engines](https://img.shields.io/badge/Casino_Game_Development-DAA520?style=for-the-badge&logo=unity&logoColor=black)  
+![Conversational AI](https://img.shields.io/badge/Conversational_AI-FF5C5C?style=for-the-badge&logo=dialogflow&logoColor=white)  
+![Nonprofit Leadership](https://img.shields.io/badge/Nonprofit_Leadership-228B22?style=for-the-badge&logo=impact&logoColor=white)
+
+
+
 ## 🚀 What I Do
 
 ### Full Stack Systems Development
