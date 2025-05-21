@@ -1,5 +1,9 @@
 # Capt-G — Architect of Logically Intelligent Systems  
-## Founder of Logically Incorporated | Day Trader | Casino Engineer | AI Dev | Nonprofit Leader  
+## Founder of Logically Incorporated
+## Day Trader | 
+## Casino Engineer | 
+## AI Dev | 
+## Nonprofit Leader  
 
 Welcome to my command center — where cutting-edge code meets real-world impact. I'm a senior software developer and trader who builds platforms that *think, trade, entertain,* and *empower.*
 
